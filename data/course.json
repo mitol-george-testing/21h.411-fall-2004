@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Medieval History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "History of Western Thought, 500-1300",
+  "course_description": "This course examines the development of the western intellectual tradition from the fall of the Roman Empire through the High Middle Ages. Our basic premise will be that the triumph of Christianity in the west was not the inevitable outcome it might appear from hindsight. Our attention will therefore be focused not only on the development of Christian thought and practice, but on its challengers as well. The core themes of the course include the emergence of a uniform Christian orthodoxy in late antiquity; the development of monastic practice and its attendant intellectual traditions; and the geographical spread of Christian beliefs. Working in opposition to those trends were other forces, which we will also address in our readings. In particular, we will consider the persistence of northern paganism; the rise of Islam; the solidification of a separate Byzantine orthodoxy; indigenous heretical movements; and the ambiguous position of Jews in all of European society.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.411",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
